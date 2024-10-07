@@ -19,3 +19,4 @@ This project is developed using the Qt Framework, which provides cross-platform 
 * [Berbasoft](https://berbasoft.com/simplegametutorials/love/blackjack/) - inspiration
 * [Cards](https://opengameart.org/content/playing-cards-0) - opengameart
 * [Font](https://www.dafont.com/juniory.font) - juniory.ttf
+* [Gameplay](https://youtu.be/yLGg9stgmX0) - youtube
